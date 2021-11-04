@@ -1,2 +1,2 @@
 # PowerBI
-Contents for Power BI access
+Contents for Power BI
